@@ -18,15 +18,16 @@ This project Analyzed used car market sale to identify price trend, kms driven, 
 
 | Metric | Value |
 |--------|-------|
+| Average Car Price | ₹402.06 |
+| Highest Avg Price | Mahindra (₹626.25k) |
+| Lowest Avg Price | Tata (₹190.71k) | 
 | Total Cars Listed | 716 |
 | Total Companies | 25 |
 | Fuel Types Available | 3 |
-| Average Car Price | ₹402,060 |
-| Highest Avg Price | Mahindra (₹630,000) |
-| Lowest Avg Price | Tata (₹190,000) | 
 
 ## Key Insights
 - Mahindra commands the highest average resale price at 626,247 India Rupees
+- Tata commands the lowest average resale price at 190.71k india Rupees
 - Maruti Dominates listings with 201 cars, which is almost double it's nearest competitor
 - Petrol and Diesel dominate the market
 - Diesel cars costs more on average despite Petrol being more common
