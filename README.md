@@ -1,9 +1,10 @@
 # USED CAR PRICE PREDICTION ANALYSIS DASHBOARD 
 
 ## PROJECT OVERVIEW
-  This project Analyzed used car market price prediction to identify price trend, kms driven, fuel type and price patterns across multiple car companies across India. By the end of this analysis, i was able to uncover the full story of What actually drives a used car's price — the brand, the age, how far it's been driven? This one digs into 716 used car listings to find out. Same Four-tool build as the rest of this portfolio: Excel, Power BI, SQL, and Python, same questions asked four different ways.
+  This project Analyzed used car market price prediction to identify price trend, kms driven, fuel type and price patterns across multiple car companies across India. By the end of this analysis, i was able to uncover the full story of What actually drives a used car's price — the brand, the age, how far it's been driven? This one digs into 716 used car listings to find out. Same Four-tool build as the rest of this portfolio: Excel, Power BI, SQL, and Python, same questions asked four different ways
 
-  | METRIC | VALUE |
+  ## KEY METRICS 
+  | METRICS | VALUE |
 |--------|-------|
 | AVERAGE CAR PRICE | ₹402.06 |
 | HIGHEST AVG PRICE | Mahindra (₹626.25k) |
